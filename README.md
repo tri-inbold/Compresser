@@ -1,0 +1,2 @@
+# Compresser
+Compress everything
